@@ -1,4 +1,4 @@
-# Playwright TestNG Hub
+# Playwright JavaScript Hub
 
 A comprehensive Playwright automation framework in JavaScript/TypeScript, automating all 32 pages from [the-internet.herokuapp.com](https://the-internet.herokuapp.com).
 
